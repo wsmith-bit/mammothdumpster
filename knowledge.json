@@ -1,0 +1,1319 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Local Business Page Generator",
+  "description": "AI-optimized local business pages with unique content and complete SEO",
+  "url": "https://mammothdumpsterllc.com",
+  "dateModified": "2026-04-16T17:36:21.667Z",
+  "inLanguage": "en-US",
+  "pages": [
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/winchendon-ma-01475",
+      "name": "Winchendon, Massachusetts",
+      "location": {
+        "city": "Winchendon",
+        "state": "Massachusetts",
+        "zip": "01475",
+        "coordinates": {
+          "lat": 42.66675,
+          "lon": -72.04902
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/maynard-ma-01754",
+      "name": "Maynard, Massachusetts",
+      "location": {
+        "city": "Maynard",
+        "state": "Massachusetts",
+        "zip": "01754",
+        "coordinates": {
+          "lat": 42.4264,
+          "lon": -71.45607
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/lunenburg-ma-01462",
+      "name": "Lunenburg, Massachusetts",
+      "location": {
+        "city": "Lunenburg",
+        "state": "Massachusetts",
+        "zip": "01462",
+        "coordinates": {
+          "lat": 42.58994,
+          "lon": -71.72036
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/marblehead-ma-01945",
+      "name": "Marblehead, Massachusetts",
+      "location": {
+        "city": "Marblehead",
+        "state": "Massachusetts",
+        "zip": "01945",
+        "coordinates": {
+          "lat": 42.49924,
+          "lon": -70.86348
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/stow-ma-01775",
+      "name": "Stow, Massachusetts",
+      "location": {
+        "city": "Stow",
+        "state": "Massachusetts",
+        "zip": "01775",
+        "coordinates": {
+          "lat": 42.42983,
+          "lon": -71.51146
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/rockport-ma-01966",
+      "name": "Rockport, Massachusetts",
+      "location": {
+        "city": "Rockport",
+        "state": "Massachusetts",
+        "zip": "01966",
+        "coordinates": {
+          "lat": 42.65432,
+          "lon": -70.62227
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/holbrook-ma-02343",
+      "name": "Holbrook, Massachusetts",
+      "location": {
+        "city": "Holbrook",
+        "state": "Massachusetts",
+        "zip": "02343",
+        "coordinates": {
+          "lat": 42.14733,
+          "lon": -71.00484
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/wilmington-ma-01887",
+      "name": "Wilmington, Massachusetts",
+      "location": {
+        "city": "Wilmington",
+        "state": "Massachusetts",
+        "zip": "01887",
+        "coordinates": {
+          "lat": 42.56091,
+          "lon": -71.16541
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/chelmsford-ma-01824",
+      "name": "Chelmsford, Massachusetts",
+      "location": {
+        "city": "Chelmsford",
+        "state": "Massachusetts",
+        "zip": "01824",
+        "coordinates": {
+          "lat": 42.59156,
+          "lon": -71.35553
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/lynnfield-ma-01940",
+      "name": "Lynnfield, Massachusetts",
+      "location": {
+        "city": "Lynnfield",
+        "state": "Massachusetts",
+        "zip": "01940",
+        "coordinates": {
+          "lat": 42.53523,
+          "lon": -71.03695
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/north-reading-ma-01864",
+      "name": "North Reading, Massachusetts",
+      "location": {
+        "city": "North Reading",
+        "state": "Massachusetts",
+        "zip": "01864",
+        "coordinates": {
+          "lat": 42.58156,
+          "lon": -71.08759
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/brighton-ma-02135",
+      "name": "Brighton, Massachusetts",
+      "location": {
+        "city": "Brighton",
+        "state": "Massachusetts",
+        "zip": "02135",
+        "coordinates": {
+          "lat": 42.34989,
+          "lon": -71.15417
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/dorchester-center-ma-02124",
+      "name": "Dorchester Center, Massachusetts",
+      "location": {
+        "city": "Dorchester Center",
+        "state": "Massachusetts",
+        "zip": "02124",
+        "coordinates": {
+          "lat": 42.28583,
+          "lon": -71.07114
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/malden-ma-02148",
+      "name": "Malden, Massachusetts",
+      "location": {
+        "city": "Malden",
+        "state": "Massachusetts",
+        "zip": "02148",
+        "coordinates": {
+          "lat": 42.43048,
+          "lon": -71.05762
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/framingham-ma-01702",
+      "name": "Framingham, Massachusetts",
+      "location": {
+        "city": "Framingham",
+        "state": "Massachusetts",
+        "zip": "01702",
+        "coordinates": {
+          "lat": 42.28242,
+          "lon": -71.43428
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/roxbury-ma-02119",
+      "name": "Roxbury, Massachusetts",
+      "location": {
+        "city": "Roxbury",
+        "state": "Massachusetts",
+        "zip": "02119",
+        "coordinates": {
+          "lat": 42.32405,
+          "lon": -71.08522
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/natick-ma-01760",
+      "name": "Natick, Massachusetts",
+      "location": {
+        "city": "Natick",
+        "state": "Massachusetts",
+        "zip": "01760",
+        "coordinates": {
+          "lat": 42.28436,
+          "lon": -71.34966
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/lexington-ma-02421",
+      "name": "Lexington, Massachusetts",
+      "location": {
+        "city": "Lexington",
+        "state": "Massachusetts",
+        "zip": "02421",
+        "coordinates": {
+          "lat": 42.438,
+          "lon": -71.23922
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/charlestown-ma-02129",
+      "name": "Charlestown, Massachusetts",
+      "location": {
+        "city": "Charlestown",
+        "state": "Massachusetts",
+        "zip": "02129",
+        "coordinates": {
+          "lat": 42.37975,
+          "lon": -71.06167
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/danvers-ma-01923",
+      "name": "Danvers, Massachusetts",
+      "location": {
+        "city": "Danvers",
+        "state": "Massachusetts",
+        "zip": "01923",
+        "coordinates": {
+          "lat": 42.57398,
+          "lon": -70.94923
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/lawrence-ma-01841",
+      "name": "Lawrence, Massachusetts",
+      "location": {
+        "city": "Lawrence",
+        "state": "Massachusetts",
+        "zip": "01841",
+        "coordinates": {
+          "lat": 42.71077,
+          "lon": -71.16494
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/mattapan-ma-02126",
+      "name": "Mattapan, Massachusetts",
+      "location": {
+        "city": "Mattapan",
+        "state": "Massachusetts",
+        "zip": "02126",
+        "coordinates": {
+          "lat": 42.27588,
+          "lon": -71.0918
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/brookline-ma-02446",
+      "name": "Brookline, Massachusetts",
+      "location": {
+        "city": "Brookline",
+        "state": "Massachusetts",
+        "zip": "02446",
+        "coordinates": {
+          "lat": 42.3435,
+          "lon": -71.12179
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/stoneham-ma-02180",
+      "name": "Stoneham, Massachusetts",
+      "location": {
+        "city": "Stoneham",
+        "state": "Massachusetts",
+        "zip": "02180",
+        "coordinates": {
+          "lat": 42.47396,
+          "lon": -71.09705
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/marlborough-ma-01752",
+      "name": "Marlborough, Massachusetts",
+      "location": {
+        "city": "Marlborough",
+        "state": "Massachusetts",
+        "zip": "01752",
+        "coordinates": {
+          "lat": 42.3494,
+          "lon": -71.54681
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/shrewsbury-ma-01545",
+      "name": "Shrewsbury, Massachusetts",
+      "location": {
+        "city": "Shrewsbury",
+        "state": "Massachusetts",
+        "zip": "01545",
+        "coordinates": {
+          "lat": 42.28419,
+          "lon": -71.71558
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/south-weymouth-ma-02190",
+      "name": "South Weymouth, Massachusetts",
+      "location": {
+        "city": "South Weymouth",
+        "state": "Massachusetts",
+        "zip": "02190",
+        "coordinates": {
+          "lat": 42.16625,
+          "lon": -70.95253
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/concord-ma-01742",
+      "name": "Concord, Massachusetts",
+      "location": {
+        "city": "Concord",
+        "state": "Massachusetts",
+        "zip": "01742",
+        "coordinates": {
+          "lat": 42.46221,
+          "lon": -71.36504
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/lynn-ma-01902",
+      "name": "Lynn, Massachusetts",
+      "location": {
+        "city": "Lynn",
+        "state": "Massachusetts",
+        "zip": "01902",
+        "coordinates": {
+          "lat": 42.4712,
+          "lon": -70.93983
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/nashua-nh-03060",
+      "name": "Nashua, New Hampshire",
+      "location": {
+        "city": "Nashua",
+        "state": "New Hampshire",
+        "zip": "03060",
+        "coordinates": {
+          "lat": 42.74135,
+          "lon": -71.45936
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/hooksett-nh-03106",
+      "name": "Hooksett, New Hampshire",
+      "location": {
+        "city": "Hooksett",
+        "state": "New Hampshire",
+        "zip": "03106",
+        "coordinates": {
+          "lat": 43.07097,
+          "lon": -71.43651
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/somerville-ma-02145",
+      "name": "Somerville, Massachusetts",
+      "location": {
+        "city": "Somerville",
+        "state": "Massachusetts",
+        "zip": "02145",
+        "coordinates": {
+          "lat": 42.39206,
+          "lon": -71.0895
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/salem-nh-03079",
+      "name": "Salem, New Hampshire",
+      "location": {
+        "city": "Salem",
+        "state": "New Hampshire",
+        "zip": "03079",
+        "coordinates": {
+          "lat": 42.79023,
+          "lon": -71.22024
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/hampton-nh-03842",
+      "name": "Hampton, New Hampshire",
+      "location": {
+        "city": "Hampton",
+        "state": "New Hampshire",
+        "zip": "03842",
+        "coordinates": {
+          "lat": 42.93941,
+          "lon": -70.83697
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/rindge-nh-03461",
+      "name": "Rindge, New Hampshire",
+      "location": {
+        "city": "Rindge",
+        "state": "New Hampshire",
+        "zip": "03461",
+        "coordinates": {
+          "lat": 42.75234,
+          "lon": -72.01071
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/watertown-ma-02472",
+      "name": "Watertown, Massachusetts",
+      "location": {
+        "city": "Watertown",
+        "state": "Massachusetts",
+        "zip": "02472",
+        "coordinates": {
+          "lat": 42.37,
+          "lon": -71.17713
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/seabrook-nh-03874",
+      "name": "Seabrook, New Hampshire",
+      "location": {
+        "city": "Seabrook",
+        "state": "New Hampshire",
+        "zip": "03874",
+        "coordinates": {
+          "lat": 42.88689,
+          "lon": -70.8607
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/south-boston-ma-02127",
+      "name": "South Boston, Massachusetts",
+      "location": {
+        "city": "South Boston",
+        "state": "Massachusetts",
+        "zip": "02127",
+        "coordinates": {
+          "lat": 42.33455,
+          "lon": -71.03875
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/brookline-nh-03033",
+      "name": "Brookline, New Hampshire",
+      "location": {
+        "city": "Brookline",
+        "state": "New Hampshire",
+        "zip": "03033",
+        "coordinates": {
+          "lat": 42.74643,
+          "lon": -71.67054
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/milford-nh-03055",
+      "name": "Milford, New Hampshire",
+      "location": {
+        "city": "Milford",
+        "state": "New Hampshire",
+        "zip": "03055",
+        "coordinates": {
+          "lat": 42.81783,
+          "lon": -71.67361
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/north-chelmsford-ma-01863",
+      "name": "North Chelmsford, Massachusetts",
+      "location": {
+        "city": "North Chelmsford",
+        "state": "Massachusetts",
+        "zip": "01863",
+        "coordinates": {
+          "lat": 42.63274,
+          "lon": -71.39132
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/rutland-ma-01543",
+      "name": "Rutland, Massachusetts",
+      "location": {
+        "city": "Rutland",
+        "state": "Massachusetts",
+        "zip": "01543",
+        "coordinates": {
+          "lat": 42.38482,
+          "lon": -71.96726
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/billerica-ma-01821",
+      "name": "Billerica, Massachusetts",
+      "location": {
+        "city": "Billerica",
+        "state": "Massachusetts",
+        "zip": "01821",
+        "coordinates": {
+          "lat": 42.54999,
+          "lon": -71.25206
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/northborough-ma-01532",
+      "name": "Northborough, Massachusetts",
+      "location": {
+        "city": "Northborough",
+        "state": "Massachusetts",
+        "zip": "01532",
+        "coordinates": {
+          "lat": 42.32314,
+          "lon": -71.64621
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/durham-nh-03824",
+      "name": "Durham, New Hampshire",
+      "location": {
+        "city": "Durham",
+        "state": "New Hampshire",
+        "zip": "03824",
+        "coordinates": {
+          "lat": 43.11744,
+          "lon": -70.91937
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/lancaster-ma-01523",
+      "name": "Lancaster, Massachusetts",
+      "location": {
+        "city": "Lancaster",
+        "state": "Massachusetts",
+        "zip": "01523",
+        "coordinates": {
+          "lat": 42.48176,
+          "lon": -71.68079
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/shirley-ma-01464",
+      "name": "Shirley, Massachusetts",
+      "location": {
+        "city": "Shirley",
+        "state": "Massachusetts",
+        "zip": "01464",
+        "coordinates": {
+          "lat": 42.57411,
+          "lon": -71.6475
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/burlington-ma-01803",
+      "name": "Burlington, Massachusetts",
+      "location": {
+        "city": "Burlington",
+        "state": "Massachusetts",
+        "zip": "01803",
+        "coordinates": {
+          "lat": 42.5028,
+          "lon": -71.20147
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/stoughton-ma-02072",
+      "name": "Stoughton, Massachusetts",
+      "location": {
+        "city": "Stoughton",
+        "state": "Massachusetts",
+        "zip": "02072",
+        "coordinates": {
+          "lat": 42.1192,
+          "lon": -71.10189
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/wayland-ma-01778",
+      "name": "Wayland, Massachusetts",
+      "location": {
+        "city": "Wayland",
+        "state": "Massachusetts",
+        "zip": "01778",
+        "coordinates": {
+          "lat": 42.3583,
+          "lon": -71.35895
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/milford-ma-01757",
+      "name": "Milford, Massachusetts",
+      "location": {
+        "city": "Milford",
+        "state": "Massachusetts",
+        "zip": "01757",
+        "coordinates": {
+          "lat": 42.15723,
+          "lon": -71.51978
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/ipswich-ma-01938",
+      "name": "Ipswich, Massachusetts",
+      "location": {
+        "city": "Ipswich",
+        "state": "Massachusetts",
+        "zip": "01938",
+        "coordinates": {
+          "lat": 42.68568,
+          "lon": -70.83989
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/ashburnham-ma-01430",
+      "name": "Ashburnham, Massachusetts",
+      "location": {
+        "city": "Ashburnham",
+        "state": "Massachusetts",
+        "zip": "01430",
+        "coordinates": {
+          "lat": 42.66069,
+          "lon": -71.9232
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/west-roxbury-ma-02132",
+      "name": "West Roxbury, Massachusetts",
+      "location": {
+        "city": "West Roxbury",
+        "state": "Massachusetts",
+        "zip": "02132",
+        "coordinates": {
+          "lat": 42.27931,
+          "lon": -71.16072
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/millbury-ma-01527",
+      "name": "Millbury, Massachusetts",
+      "location": {
+        "city": "Millbury",
+        "state": "Massachusetts",
+        "zip": "01527",
+        "coordinates": {
+          "lat": 42.19228,
+          "lon": -71.77397
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/needham-heights-ma-02494",
+      "name": "Needham Heights, Massachusetts",
+      "location": {
+        "city": "Needham Heights",
+        "state": "Massachusetts",
+        "zip": "02494",
+        "coordinates": {
+          "lat": 42.29959,
+          "lon": -71.2317
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/hopkinton-ma-01748",
+      "name": "Hopkinton, Massachusetts",
+      "location": {
+        "city": "Hopkinton",
+        "state": "Massachusetts",
+        "zip": "01748",
+        "coordinates": {
+          "lat": 42.2255,
+          "lon": -71.53781
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/westborough-ma-01581",
+      "name": "Westborough, Massachusetts",
+      "location": {
+        "city": "Westborough",
+        "state": "Massachusetts",
+        "zip": "01581",
+        "coordinates": {
+          "lat": 42.26815,
+          "lon": -71.61402
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/norfolk-ma-02056",
+      "name": "Norfolk, Massachusetts",
+      "location": {
+        "city": "Norfolk",
+        "state": "Massachusetts",
+        "zip": "02056",
+        "coordinates": {
+          "lat": 42.11632,
+          "lon": -71.32952
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/ayer-ma-01432",
+      "name": "Ayer, Massachusetts",
+      "location": {
+        "city": "Ayer",
+        "state": "Massachusetts",
+        "zip": "01432",
+        "coordinates": {
+          "lat": 42.56351,
+          "lon": -71.57059
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/westford-ma-01886",
+      "name": "Westford, Massachusetts",
+      "location": {
+        "city": "Westford",
+        "state": "Massachusetts",
+        "zip": "01886",
+        "coordinates": {
+          "lat": 42.58642,
+          "lon": -71.44008
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/north-grafton-ma-01536",
+      "name": "North Grafton, Massachusetts",
+      "location": {
+        "city": "North Grafton",
+        "state": "Massachusetts",
+        "zip": "01536",
+        "coordinates": {
+          "lat": 42.23189,
+          "lon": -71.69219
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/medway-ma-02053",
+      "name": "Medway, Massachusetts",
+      "location": {
+        "city": "Medway",
+        "state": "Massachusetts",
+        "zip": "02053",
+        "coordinates": {
+          "lat": 42.15352,
+          "lon": -71.42906
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/dracut-ma-01826",
+      "name": "Dracut, Massachusetts",
+      "location": {
+        "city": "Dracut",
+        "state": "Massachusetts",
+        "zip": "01826",
+        "coordinates": {
+          "lat": 42.68323,
+          "lon": -71.30063
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/newburyport-ma-01950",
+      "name": "Newburyport, Massachusetts",
+      "location": {
+        "city": "Newburyport",
+        "state": "Massachusetts",
+        "zip": "01950",
+        "coordinates": {
+          "lat": 42.81237,
+          "lon": -70.88785
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/west-newton-ma-02465",
+      "name": "West Newton, Massachusetts",
+      "location": {
+        "city": "West Newton",
+        "state": "Massachusetts",
+        "zip": "02465",
+        "coordinates": {
+          "lat": 42.34969,
+          "lon": -71.22646
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/wellesley-ma-02482",
+      "name": "Wellesley, Massachusetts",
+      "location": {
+        "city": "Wellesley",
+        "state": "Massachusetts",
+        "zip": "02482",
+        "coordinates": {
+          "lat": 42.29455,
+          "lon": -71.29859
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/newton-highlands-ma-02461",
+      "name": "Newton Highlands, Massachusetts",
+      "location": {
+        "city": "Newton Highlands",
+        "state": "Massachusetts",
+        "zip": "02461",
+        "coordinates": {
+          "lat": 42.31693,
+          "lon": -71.20875
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/winchester-ma-01890",
+      "name": "Winchester, Massachusetts",
+      "location": {
+        "city": "Winchester",
+        "state": "Massachusetts",
+        "zip": "01890",
+        "coordinates": {
+          "lat": 42.45177,
+          "lon": -71.14628
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/bolton-ma-01740",
+      "name": "Bolton, Massachusetts",
+      "location": {
+        "city": "Bolton",
+        "state": "Massachusetts",
+        "zip": "01740",
+        "coordinates": {
+          "lat": 42.43616,
+          "lon": -71.60728
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/newton-center-ma-02459",
+      "name": "Newton Center, Massachusetts",
+      "location": {
+        "city": "Newton Center",
+        "state": "Massachusetts",
+        "zip": "02459",
+        "coordinates": {
+          "lat": 42.31515,
+          "lon": -71.19174
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/sudbury-ma-01776",
+      "name": "Sudbury, Massachusetts",
+      "location": {
+        "city": "Sudbury",
+        "state": "Massachusetts",
+        "zip": "01776",
+        "coordinates": {
+          "lat": 42.38456,
+          "lon": -71.42316
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/holden-ma-01520",
+      "name": "Holden, Massachusetts",
+      "location": {
+        "city": "Holden",
+        "state": "Massachusetts",
+        "zip": "01520",
+        "coordinates": {
+          "lat": 42.33685,
+          "lon": -71.85181
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/holliston-ma-01746",
+      "name": "Holliston, Massachusetts",
+      "location": {
+        "city": "Holliston",
+        "state": "Massachusetts",
+        "zip": "01746",
+        "coordinates": {
+          "lat": 42.19775,
+          "lon": -71.44499
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/west-boylston-ma-01583",
+      "name": "West Boylston, Massachusetts",
+      "location": {
+        "city": "West Boylston",
+        "state": "Massachusetts",
+        "zip": "01583",
+        "coordinates": {
+          "lat": 42.37034,
+          "lon": -71.78502
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/hudson-ma-01749",
+      "name": "Hudson, Massachusetts",
+      "location": {
+        "city": "Hudson",
+        "state": "Massachusetts",
+        "zip": "01749",
+        "coordinates": {
+          "lat": 42.38868,
+          "lon": -71.54648
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/westwood-ma-02090",
+      "name": "Westwood, Massachusetts",
+      "location": {
+        "city": "Westwood",
+        "state": "Massachusetts",
+        "zip": "02090",
+        "coordinates": {
+          "lat": 42.22024,
+          "lon": -71.21057
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/grafton-ma-01519",
+      "name": "Grafton, Massachusetts",
+      "location": {
+        "city": "Grafton",
+        "state": "Massachusetts",
+        "zip": "01519",
+        "coordinates": {
+          "lat": 42.20077,
+          "lon": -71.67892
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/pepperell-ma-01463",
+      "name": "Pepperell, Massachusetts",
+      "location": {
+        "city": "Pepperell",
+        "state": "Massachusetts",
+        "zip": "01463",
+        "coordinates": {
+          "lat": 42.67126,
+          "lon": -71.60429
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/dedham-ma-02026",
+      "name": "Dedham, Massachusetts",
+      "location": {
+        "city": "Dedham",
+        "state": "Massachusetts",
+        "zip": "02026",
+        "coordinates": {
+          "lat": 42.24665,
+          "lon": -71.1777
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/northbridge-ma-01534",
+      "name": "Northbridge, Massachusetts",
+      "location": {
+        "city": "Northbridge",
+        "state": "Massachusetts",
+        "zip": "01534",
+        "coordinates": {
+          "lat": 42.13991,
+          "lon": -71.64433
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/haverhill-ma-01830",
+      "name": "Haverhill, Massachusetts",
+      "location": {
+        "city": "Haverhill",
+        "state": "Massachusetts",
+        "zip": "01830",
+        "coordinates": {
+          "lat": 42.7959,
+          "lon": -71.05323
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/manchester-ma-01944",
+      "name": "Manchester, Massachusetts",
+      "location": {
+        "city": "Manchester",
+        "state": "Massachusetts",
+        "zip": "01944",
+        "coordinates": {
+          "lat": 42.58154,
+          "lon": -70.76825
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/waban-ma-02468",
+      "name": "Waban, Massachusetts",
+      "location": {
+        "city": "Waban",
+        "state": "Massachusetts",
+        "zip": "02468",
+        "coordinates": {
+          "lat": 42.32777,
+          "lon": -71.23142
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/dover-ma-02030",
+      "name": "Dover, Massachusetts",
+      "location": {
+        "city": "Dover",
+        "state": "Massachusetts",
+        "zip": "02030",
+        "coordinates": {
+          "lat": 42.2366,
+          "lon": -71.28421
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/waltham-ma-02453",
+      "name": "Waltham, Massachusetts",
+      "location": {
+        "city": "Waltham",
+        "state": "Massachusetts",
+        "zip": "02453",
+        "coordinates": {
+          "lat": 42.36918,
+          "lon": -71.24101
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/merrimac-ma-01860",
+      "name": "Merrimac, Massachusetts",
+      "location": {
+        "city": "Merrimac",
+        "state": "Massachusetts",
+        "zip": "01860",
+        "coordinates": {
+          "lat": 42.83858,
+          "lon": -71.01194
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/dover-nh-03820",
+      "name": "Dover, New Hampshire",
+      "location": {
+        "city": "Dover",
+        "state": "New Hampshire",
+        "zip": "03820",
+        "coordinates": {
+          "lat": 43.18933,
+          "lon": -70.88428
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/leominster-ma-01453",
+      "name": "Leominster, Massachusetts",
+      "location": {
+        "city": "Leominster",
+        "state": "Massachusetts",
+        "zip": "01453",
+        "coordinates": {
+          "lat": 42.51961,
+          "lon": -71.76583
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/salem-ma-01970",
+      "name": "Salem, Massachusetts",
+      "location": {
+        "city": "Salem",
+        "state": "Massachusetts",
+        "zip": "01970",
+        "coordinates": {
+          "lat": 42.51298,
+          "lon": -70.90266
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/methuen-ma-01844",
+      "name": "Methuen, Massachusetts",
+      "location": {
+        "city": "Methuen",
+        "state": "Massachusetts",
+        "zip": "01844",
+        "coordinates": {
+          "lat": 42.73426,
+          "lon": -71.18858
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/franklin-ma-02038",
+      "name": "Franklin, Massachusetts",
+      "location": {
+        "city": "Franklin",
+        "state": "Massachusetts",
+        "zip": "02038",
+        "coordinates": {
+          "lat": 42.08622,
+          "lon": -71.41126
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/boston-ma-02115",
+      "name": "Boston, Massachusetts",
+      "location": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "zip": "02115",
+        "coordinates": {
+          "lat": 42.34046,
+          "lon": -71.09481
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/braintree-ma-02184",
+      "name": "Braintree, Massachusetts",
+      "location": {
+        "city": "Braintree",
+        "state": "Massachusetts",
+        "zip": "02184",
+        "coordinates": {
+          "lat": 42.20386,
+          "lon": -71.0022
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/revere-ma-02151",
+      "name": "Revere, Massachusetts",
+      "location": {
+        "city": "Revere",
+        "state": "Massachusetts",
+        "zip": "02151",
+        "coordinates": {
+          "lat": 42.41887,
+          "lon": -71.004
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/hyde-park-ma-02136",
+      "name": "Hyde Park, Massachusetts",
+      "location": {
+        "city": "Hyde Park",
+        "state": "Massachusetts",
+        "zip": "02136",
+        "coordinates": {
+          "lat": 42.25505,
+          "lon": -71.12662
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/roslindale-ma-02131",
+      "name": "Roslindale, Massachusetts",
+      "location": {
+        "city": "Roslindale",
+        "state": "Massachusetts",
+        "zip": "02131",
+        "coordinates": {
+          "lat": 42.28392,
+          "lon": -71.12468
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/allston-ma-02134",
+      "name": "Allston, Massachusetts",
+      "location": {
+        "city": "Allston",
+        "state": "Massachusetts",
+        "zip": "02134",
+        "coordinates": {
+          "lat": 42.35855,
+          "lon": -71.12931
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/randolph-ma-02368",
+      "name": "Randolph, Massachusetts",
+      "location": {
+        "city": "Randolph",
+        "state": "Massachusetts",
+        "zip": "02368",
+        "coordinates": {
+          "lat": 42.17506,
+          "lon": -71.05011
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/wakefield-ma-01880",
+      "name": "Wakefield, Massachusetts",
+      "location": {
+        "city": "Wakefield",
+        "state": "Massachusetts",
+        "zip": "01880",
+        "coordinates": {
+          "lat": 42.50348,
+          "lon": -71.06559
+        }
+      }
+    }
+  ],
+  "features": [
+    "AI-generated unique content",
+    "Complete SEO optimization",
+    "Schema.org structured data",
+    "Local business signals",
+    "Voice search optimization",
+    "FAQ schema markup"
+  ]
+}
