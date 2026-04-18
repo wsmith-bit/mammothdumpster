@@ -4,7 +4,7 @@
   "name": "Local Business Page Generator",
   "description": "AI-optimized local business pages with unique content and complete SEO",
   "url": "https://mammothdumpsterllc.com",
-  "dateModified": "2026-04-16T17:36:21.667Z",
+  "dateModified": "2026-04-18T16:38:29.266Z",
   "inLanguage": "en-US",
   "pages": [
     {
@@ -160,19 +160,6 @@
         "coordinates": {
           "lat": 42.34989,
           "lon": -71.15417
-        }
-      }
-    },
-    {
-      "url": "https://mammothdumpsterllc.com/dumpster-rental/dorchester-center-ma-02124",
-      "name": "Dorchester Center, Massachusetts",
-      "location": {
-        "city": "Dorchester Center",
-        "state": "Massachusetts",
-        "zip": "02124",
-        "coordinates": {
-          "lat": 42.28583,
-          "lon": -71.07114
         }
       }
     },
@@ -420,32 +407,6 @@
         "coordinates": {
           "lat": 42.39206,
           "lon": -71.0895
-        }
-      }
-    },
-    {
-      "url": "https://mammothdumpsterllc.com/dumpster-rental/salem-nh-03079",
-      "name": "Salem, New Hampshire",
-      "location": {
-        "city": "Salem",
-        "state": "New Hampshire",
-        "zip": "03079",
-        "coordinates": {
-          "lat": 42.79023,
-          "lon": -71.22024
-        }
-      }
-    },
-    {
-      "url": "https://mammothdumpsterllc.com/dumpster-rental/hampton-nh-03842",
-      "name": "Hampton, New Hampshire",
-      "location": {
-        "city": "Hampton",
-        "state": "New Hampshire",
-        "zip": "03842",
-        "coordinates": {
-          "lat": 42.93941,
-          "lon": -70.83697
         }
       }
     },
@@ -1304,6 +1265,45 @@
         "coordinates": {
           "lat": 42.50348,
           "lon": -71.06559
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/amesbury-ma-01913",
+      "name": "Amesbury, Massachusetts",
+      "location": {
+        "city": "Amesbury",
+        "state": "Massachusetts",
+        "zip": "01913",
+        "coordinates": {
+          "lat": 42.85297,
+          "lon": -70.94459
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/walpole-ma-02081",
+      "name": "Walpole, Massachusetts",
+      "location": {
+        "city": "Walpole",
+        "state": "Massachusetts",
+        "zip": "02081",
+        "coordinates": {
+          "lat": 42.14689,
+          "lon": -71.25916
+        }
+      }
+    },
+    {
+      "url": "https://mammothdumpsterllc.com/dumpster-rental/dorchester-ma-02125",
+      "name": "Dorchester, Massachusetts",
+      "location": {
+        "city": "Dorchester",
+        "state": "Massachusetts",
+        "zip": "02125",
+        "coordinates": {
+          "lat": 42.31578,
+          "lon": -71.0562
         }
       }
     }
